@@ -1,0 +1,21 @@
+@media screen and (max-width: 768px) {
+
+  .social {
+    margin-top:-4%;
+	padding-left: 74%;
+  }
+}
+@media screen and (max-width: 480px) {
+
+  .social {
+    margin-top:-8%;
+	padding-left: 65%;
+  }
+}
+@media screen and (max-width: 320px) {
+
+  .social {
+    margin-top:-8%;
+	padding-left: 62%;
+  }
+}
